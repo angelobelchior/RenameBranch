@@ -2,9 +2,9 @@ name: Rename Branch - Build
 
 on:
   push:
-    branches: [ master ]
+    branches: [ CDSInternationalGolfClubAndResort ]
   pull_request:
-    branches: [ master ]
+    branches: [ CDSInternationalGolfClubAndResort ]
 
 jobs:
   build:
